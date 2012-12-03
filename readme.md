@@ -23,7 +23,8 @@ en.ja OSSは基本的にギブ&テイクでいこうと思います。
 ## 監訳希望
 
 翻訳初心者の方でも監訳の依頼をいただければグループのメンバーの誰かが監訳してくれるはずです。  
-監訳をしてほしい場合は、Pull Request時に斉藤([@studiomohawk](https://github.com/studiomohawk))に依頼ください。
+監訳をしてほしい場合は、Pull Request時に斉藤([@studiomohawk](https://github.com/studiomohawk))に依頼ください。  
+詳しくは[こちらを参照してください](https://github.com/enja-oss/README/wiki/Review-and-Pull-Request-Flow)。
 
 ## enja-oss TODO
 
