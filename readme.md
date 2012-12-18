@@ -36,8 +36,6 @@ en.ja OSSは基本的にギブ&テイクでいこうと思います。
 以下、en.ja-ossにて翻訳を行う予定となっているOSSです。  
 翻訳のリクエストは受け付けていますが、翻訳のサポートを行ってくださる方からのみ受け付けておりますのであらかじめご了承ください。
 
-- [underscore.js](http://underscorejs.org/)
-	/ @studiomohawkがレポジトリの準備中: 12月1週目から着手予定
 - [Stylus](http://learnboost.github.com/stylus/) / @studiomohawkがレポジトリの準備中: 12月1週目から着手予定
 - [nib](http://visionmedia.github.com/nib/)
 	/ @studiomohawkがレポジトリの準備中: 12月2週目から着手予定
@@ -48,6 +46,8 @@ en.ja OSSは基本的にギブ&テイクでいこうと思います。
 
 - [Backbone](https://github.com/enja-oss/Backbone)
 	/ Backbone.jsドキュメントの翻訳。詳しくはレポジトリのREADMEを参照
+- [underscore.js](https://github.com/enja-oss/Underscore)
+	/ Underscore.jsドキュメントの翻訳。詳しくはレポジトリのREADMEを参照
 - [CSSO](https://github.com/enja-oss/CSSO)
 	/ CSS最適化ツールのCSSOのドキュメント翻訳。@t32kよりenja-ossに移行
 - [ja-lesscss-org](https://github.com/enja-oss/ja-lesscss-org)
