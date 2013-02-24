@@ -16,6 +16,8 @@ en.ja OSSはOSSのドキュメントを日本語訳するグループです。
 	/ Underscore.jsドキュメントの翻訳。詳しくはレポジトリのREADMEを参照
 - [Sass](https://github.com/enja-oss/sass) / CSSプリプロセッサ、Sassのドキュメントの翻訳。詳しくはレポジトリのREADMEを参照
 - [Stylus](https://github.com/enja-oss/stylus) / CSSプリプロセッサ、Stylusのドキュメントの翻訳。詳しくはレポジトリのREADMEを参照
+- [nib](https://github.com/enja-oss/nib)
+	/ Stylusのための便利なCSSミックスインライブラリの翻訳。詳しくはレポジトリのREADMEを参照
 - [CSSO](https://github.com/enja-oss/CSSO)
 	/ CSS最適化ツールのCSSOのドキュメント翻訳。@t32kよりenja-ossに移行
 - [ja-lesscss-org](https://github.com/enja-oss/ja-lesscss-org)
@@ -28,8 +30,8 @@ en.ja OSSはOSSのドキュメントを日本語訳するグループです。
 以下、en.ja-ossにて翻訳を行う予定となっているOSSです。  
 翻訳のリクエストは受け付けていますが、翻訳のサポートを行ってくださる方からのみ受け付けておりますのであらかじめご了承ください。
 
-- [nib](http://visionmedia.github.com/nib/)
-	/ @studiomohawkがレポジトリの準備中: 12月2週目から着手予定
+**:bangbang:： 翻訳候補については、現在[こちらのIssue](https://github.com/enja-oss/README/issues/31)にて選定中です。**
+
 - [require.js](http://requirejs.org/)
 	/ 結構長いので、5〜6人参加者がいないと厳しいかも。
 
